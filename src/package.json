@@ -10,9 +10,9 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@enjoyjs/node-mecab": "^0.2.0",
     "@types/node": "^16.4.3",
     "ts-node": "^10.1.0",
-    "typescript": "^4.3.5",
-    "mecab-async": "^0.1.2"
+    "typescript": "^4.3.5"
   }
 }
